@@ -20,4 +20,4 @@ for row in cursor:
         print("updated target: {} {:4} {:7.2f}%".format(date, symbol, gain))
 
 print("="*30)
-print("best oneday: {} {:4} {:7.2f}%".format(date, symbol, gain))
+print("best oneday: {} {:4} {:7.2f}%".format(date, symbol, max_gain))
