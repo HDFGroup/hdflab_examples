@@ -1,4 +1,4 @@
-# hdflab_examples
+# HDF Lab Examples
 
 HDF Lab provides a convenient environment for exploration of HDF5 data using HSDS or the HDF5 Library
 
