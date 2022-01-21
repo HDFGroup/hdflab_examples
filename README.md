@@ -51,6 +51,7 @@ In HDFLab, you'll find your disk contains this tutorial.  Click on examples/Tuto
     *  [Docs  h5py](http://docs.h5py.org/en/latest/index.html)
     *  [Code h5pyd](https://github.com/HDFGroup/h5pyd)
     *  [Code REST API](https://github.com/HDFGroup/hdf-rest-api)
+    *   [FAQ](https://portal.hdfgroup.org/display/KITA/HDF+Lab+Frequently+Asked+Questions)
      
 
 
