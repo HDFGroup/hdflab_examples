@@ -21,7 +21,7 @@ In addition, you will have access to the HSDS service (which itself is running a
 
 On HSDS there are example data files under “/shared/” that all HDF Lab users have access too. In addition, the folder /home/<username>/ will be available for you to host whatever data you like—up to 200 GB.
 
-<img src=\"https://www.hdfgroup.org/wp-content/uploads/2021/11/hdflab.png">
+<img src="https://www.hdfgroup.org/wp-content/uploads/2021/11/hdflab.png">
 
 ## Running the sample notebooks
 
